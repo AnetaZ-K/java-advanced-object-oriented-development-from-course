@@ -1,0 +1,4 @@
+Ala ma kota
+A kot ma Ale
+text z klasy BufferedMaintext z klasy BufferedMain
+text w nowej linii z klasy BufferedMain
